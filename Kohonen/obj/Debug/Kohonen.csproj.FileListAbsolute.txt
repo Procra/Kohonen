@@ -1,0 +1,33 @@
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\bin\Debug\Kohonen.exe.config
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\bin\Debug\Kohonen.exe
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\bin\Debug\Kohonen.pdb
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\bin\Debug\AForge.dll
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\bin\Debug\AForge.Neuro.dll
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.Form1.resources
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.exe
+C:\Users\Stephen\Desktop\Kohonen\Kohonen\obj\Debug\Kohonen.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\bin\Debug\Kohonen.exe.config
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.exe
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\bin\Debug\Kohonen.exe
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\bin\Debug\Kohonen.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\bin\Debug\AForge.dll
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\bin\Debug\AForge.Neuro.dll
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.Form1.resources
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.Properties.Resources.resources
+C:\Data\Etudes\Cours cs2i\Bachelor 3\IGM\Kohonen\Kohonen\obj\Debug\Kohonen.csproj.GenerateResource.Cache
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\bin\Debug\Kohonen.exe.config
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.exe
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.pdb
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\bin\Debug\Kohonen.exe
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\bin\Debug\Kohonen.pdb
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\bin\Debug\AForge.dll
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\bin\Debug\AForge.Neuro.dll
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.Form1.resources
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.Properties.Resources.resources
+C:\Users\gicquels\Desktop\projects\Kohonen\Kohonen\obj\Debug\Kohonen.csproj.GenerateResource.Cache
